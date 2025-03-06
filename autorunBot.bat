@@ -1,0 +1,1 @@
+cd /d D:\coding\GPTone1 && node bot.js
